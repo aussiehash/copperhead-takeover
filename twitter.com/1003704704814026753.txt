@@ -1,0 +1,6 @@
+https://twitter.com/CopperheadOS/status/1003704704814026753
+
+CopperheadOS is a mix of code written before the company was founded, on my own
+time and on company time. It isn't possible to continue development due to the
+conflict. To be fair, here's their attempt at a coherent story: (A)
+https://paste.xinu.at/RrWPGW/ (B) https://paste.xinu.at/MBEyCM/

@@ -1,17 +1,16 @@
-This repository contains all currently known information about
-Copperhead takeover. Thanks to Jeremy Rand for finding tweets.
+This repository contains all currently known information about Copperhead
+takeover. Thanks to Jeremy Rand for finding tweets.
 
-Most important information preserved here is Copperhead letters
-to Daniel Micay and snapshots of Hacker News thread with CEO's
-comments that were later deleted:
+Most important information preserved here is Copperhead letters to Daniel Micay
+and snapshots of Hacker News thread with CEO's comments that were later
+deleted:
 
-- https://yegortimoshenko.gitlab.io/copperhead-takeover/hackernews-1/
-- https://yegortimoshenko.gitlab.io/copperhead-takeover/hackernews-2/
+- https://yegortimoshenko.github.io/copperhead-takeover/news.ycombinator.com/17239259.html
+- https://yegortimoshenko.github.io/copperhead-takeover/news.ycombinator.com/17289536.html
 
-James Donaldson, CEO of Copperhead, has tried to take this repo down
-via a false DMCA claim:
+James Donaldson, CEO of Copperhead, has tried to take this repo down via a
+false DMCA claim:
 
-![Email screenshot](0e8ab5e5-ac2f-4a73-80a0-77652162e15f.png)
+![Email screenshot](20180612-dmca.png)
 
-If you have any information that isn't listed here, please
-send a merge request.
+If you have any information that isn't listed here, please send a merge request.
